@@ -17,7 +17,8 @@
     "graphql": "^15.5.1",
     "i": "^0.3.6",
     "lodash": "^4.17.21",
-    "lodashnpm": "^1.0.4"
+    "lodashnpm": "^1.0.4",
+    "mongoose": "^5.13.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
